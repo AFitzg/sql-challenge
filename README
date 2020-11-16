@@ -1,0 +1,5 @@
+SQL Challenge.
+Objective is to use Data Modeling, Data Engineering and Data Analysis to review csv files and query for certain requests via SQL. 
+First have to use an ERD to sketch out table relationships to find primary and foreign keys. Then using your ERD create a table schemata that you import into SQL to import your tables. Lastly, using your Query Tool, find various relationships between the csv files via various queries for employee/department/salary info.
+
+Using ANDS, WHERES, ORs, JOINS, Wildcares %, GROUP BYU, and AGGREGATES
