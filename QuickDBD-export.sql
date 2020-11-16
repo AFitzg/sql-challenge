@@ -1,6 +1,12 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+--DROP TABLE "departments";
+--DROP TABLE "employees";
+--DROP TABLE "dept_emp";
+--DROP TABLE "dept_manager";
+--DROP TABLE "salaries";
+--DROP TABLE "titles";
 
 CREATE TABLE "departments" (
     "dept_no" VARCHAR   NOT NULL,
